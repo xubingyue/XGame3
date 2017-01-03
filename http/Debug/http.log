@@ -1,0 +1,47 @@
+﻿  http_worker.cpp
+e:\testdir\xgame\http\http_request.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\http\response_blob.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\http\http_master.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\http\count_down_latch.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\boost\boost_1_62_0\boost\format\alt_sstream_impl.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\http\http_worker.cpp(32): error C2039: “syscall”: 不是“`global namespace'”的成员
+e:\testdir\xgame\http\http_worker.cpp(32): error C2065: “SYS_gettid”: 未声明的标识符
+e:\testdir\xgame\http\http_worker.cpp(32): error C3861: “syscall”: 找不到标识符
+  http_session.cpp
+e:\testdir\xgame\http\http_session.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\http\http_session.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+d:\boost\boost_1_62_0\boost\format\alt_sstream_impl.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\lib\base\detail\log_ext.h(17): warning C4101: “e”: 未引用的局部变量
+  e:\testdir\xgame\http\http_session.cpp(21): note: 参见对正在编译的函数 模板 实例化“void FormatLog<int>(std::string &,const char *,const P1 &)”的引用
+          with
+          [
+              P1=int
+          ]
+  d:\boost\boost_1_62_0\boost\bind\placeholders.hpp(54): note: 参见对正在编译的类 模板 实例化“boost::arg<9>”的引用
+  d:\boost\boost_1_62_0\boost\bind\placeholders.hpp(53): note: 参见对正在编译的类 模板 实例化“boost::arg<8>”的引用
+  d:\boost\boost_1_62_0\boost\bind\placeholders.hpp(52): note: 参见对正在编译的类 模板 实例化“boost::arg<7>”的引用
+  d:\boost\boost_1_62_0\boost\bind\placeholders.hpp(51): note: 参见对正在编译的类 模板 实例化“boost::arg<6>”的引用
+  d:\boost\boost_1_62_0\boost\bind\placeholders.hpp(50): note: 参见对正在编译的类 模板 实例化“boost::arg<5>”的引用
+  d:\boost\boost_1_62_0\boost\bind\placeholders.hpp(49): note: 参见对正在编译的类 模板 实例化“boost::arg<4>”的引用
+  d:\boost\boost_1_62_0\boost\bind\placeholders.hpp(48): note: 参见对正在编译的类 模板 实例化“boost::arg<3>”的引用
+  d:\boost\boost_1_62_0\boost\bind\placeholders.hpp(47): note: 参见对正在编译的类 模板 实例化“boost::arg<2>”的引用
+  d:\boost\boost_1_62_0\boost\bind\placeholders.hpp(46): note: 参见对正在编译的类 模板 实例化“boost::arg<1>”的引用
+  http_request.cpp
+e:\testdir\xgame\http\http_request.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\http\http_request.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\http\response_blob.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\boost\boost_1_62_0\boost\format\alt_sstream_impl.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\http\http_request.cpp(22): error C3861: “strcasecmp”: 找不到标识符
+  正在生成代码...
+  正在编译...
+  http_master.cpp
+e:\testdir\xgame\http\http_master.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\http\count_down_latch.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\http\http_request.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\testdir\xgame\http\response_blob.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\boost\boost_1_62_0\boost\format\alt_sstream_impl.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
